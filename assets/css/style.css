@@ -361,7 +361,7 @@ header .scrolled .navbar-toggler {
   border: none;
   -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.261);
           box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.261);
-  height: 285px;
+  height: 240px;
 }
 
 #features .card .icon {
