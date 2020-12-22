@@ -1,1 +1,1 @@
-# higeducampus.github.io
+# hig-educampus-d2
